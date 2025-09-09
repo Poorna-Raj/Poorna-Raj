@@ -1,4 +1,6 @@
-## Hi there 👋
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Poorna-Raj&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Poorna-Raj&theme=tokyonight&hide_border=true)
+![profile-card](https://pixel-profile.vercel.app/api/github-stats?username=Poorna-Raj&theme=road_trip&pixelate_avatar=false)
 
 <!--
 **Poorna-Raj/Poorna-Raj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
